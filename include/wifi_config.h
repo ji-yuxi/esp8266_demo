@@ -2,7 +2,7 @@
 #define WIFI_CONFIG_H
 
 // Fill in your WiFi credentials.
-#define WIFI_SSID "ChinaNet-6UAKZG"
-#define WIFI_PASSWORD "123456789,"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ","
 
 #endif
