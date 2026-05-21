@@ -2,10 +2,10 @@
 #define MQTT_CONFIG_H
 
 // MQTT broker settings (fill these with your broker info).
-#define MQTT_BROKER_HOST "106.12.156.83"
+#define MQTT_BROKER_HOST ""
 #define MQTT_BROKER_PORT 1883
-#define MQTT_USERNAME "zlingk"
-#define MQTT_PASSWORD "yx55944770j"
+#define MQTT_USERNAME ""
+#define MQTT_PASSWORD ""
 
 // Client and topic settings.
 #define MQTT_CLIENT_ID_PREFIX "esp8266-light"
